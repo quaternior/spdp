@@ -1,0 +1,6 @@
+[submodule "transformers-spdp"]
+	path = transformers-spdp
+	url = https://github.com/quaternior/transformers-spdp
+[submodule "extension-pytorch"]
+	path = extension-pytorch
+	url = https://github.com/quaternior/extension-pytorch

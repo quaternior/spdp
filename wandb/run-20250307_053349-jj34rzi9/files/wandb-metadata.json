@@ -1,0 +1,48 @@
+{
+  "os": "Linux-5.15.0-1046-nvidia-x86_64-with-glibc2.35",
+  "python": "CPython 3.12.7",
+  "startedAt": "2025-03-07T05:33:49.905865Z",
+  "program": "/root/tmp/spdp/run_pruning.py",
+  "codePath": "run_pruning.py",
+  "git": {
+    "remote": "https://quaternior:@github.com/quaternior/spdp.git",
+    "commit": "2a8c4fb4f8762af9b730e30e57a4b6a627d669e0"
+  },
+  "email": "wlsgur000630@naver.com",
+  "root": "/root/tmp/spdp",
+  "host": "jhkim-pod",
+  "executable": "/root/anaconda3/bin/python",
+  "codePathLocal": "run_pruning.py",
+  "cpu_count": 128,
+  "cpu_count_logical": 256,
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "1884617994240",
+      "used": "941587316736"
+    }
+  },
+  "memory": {
+    "total": "1081968652288"
+  },
+  "cpu": {
+    "count": 128,
+    "countLogical": 256
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A100-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.3"
+}

@@ -1,0 +1,1 @@
+export SPDP_HOME=$(pwd)

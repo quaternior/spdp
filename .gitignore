@@ -1,0 +1,45 @@
+TEAL/models/
+TEAL/gpt-fast/model_gptfast
+wanda/out/
+TEAL/wandb/
+wanda/llm_weights/
+TEAL/llm_weights/
+_*.py
+llm_weights/
+prune_llm/
+teal/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+
+# Distribution / packaging
+**/build/
+dist/
+*.egg-info/
+
+# Ninja files
+.ninja_deps
+.ninja_log
+compile_commands.json
+*.egg-info/
+
+# Logs
+*.log
+*.csv
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Profile files
+nsys_result/
+*.nsys-rep
+*.sqlite
+*.ncu-rep
