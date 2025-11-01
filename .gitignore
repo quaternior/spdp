@@ -9,6 +9,7 @@ llm_weights/
 prune_llm/
 teal/
 wandb
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
